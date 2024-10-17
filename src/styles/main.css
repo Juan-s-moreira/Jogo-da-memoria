@@ -1,4 +1,4 @@
-/* body{
+body{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -87,5 +87,5 @@ h2{
 .boxOpen::after,
 .boxMatch::after{
     transform: rotateY(180deg);
-} */
 
+}
